@@ -1,5 +1,5 @@
 # Python_Crash_Course
-Python Crash Course Material with examples
+Python Crash Course Material with examples. Brief details of each chapter is as follows :
 
 1]<br>
 Introduction<br>
